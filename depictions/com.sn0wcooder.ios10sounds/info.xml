@@ -1,0 +1,27 @@
+<package>
+	<id>com.sn0wcooder.ios10sounds</id>
+	<name>iOS 10 UI sounds</name>
+	<version>1.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<maxiOS>9.3.3</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>Anemone</package>
+	</dependencies>
+	<descriptionlist>
+		<description>4 amazing iOS 10 sounds for &lt;=9.x.x</description>
+	</descriptionlist>
+	<changelog>
+		<change>Fixed keyboard tick (iOS 10b4)</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+		</link>
+	</links>
+</package>

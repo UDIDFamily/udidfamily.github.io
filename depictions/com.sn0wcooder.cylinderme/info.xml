@@ -1,0 +1,34 @@
+<package>
+	<id>com.sn0wcooder.cylinderme</id>
+	<name>Cylinder More Effects</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>4.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>Cylinder</package>
+	</dependencies>
+	<descriptionlist>
+		<description>95 more Cylinder effects.</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/cylinder</name>
+			<url>https://www.reddit.com/r/cylinder</url>
+		</link>
+		<link>
+			<name>/r/iOSthemes</name>
+			<url>https://www.reddit.com/r/iOSthemes</url>
+		</link>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+		</link>
+	</links>
+</package>

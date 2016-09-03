@@ -1,0 +1,60 @@
+<package>
+	<id>org.thebigboss.ayeris</id>
+	<name>ayeris for Anemone</name>
+	<version>1.4.2-1a</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>Anemone</package>
+		<package>Firmware >= iOS 7.0</package>
+	</dependencies>
+	<descriptionlist>
+		<description><![CDATA[
+			ayeris, finally ported for Anemone!<br/> 
+Winterboard is buggy, slow and really outdated, maybe Surenix doesn't know that (?), so we decided to port this theme to the newest and powerful theming engine called Anemone, @coolstarorg (main dev of Anemone) already did a "porting" of Ayeris but he said that he'll never update that "dirty hack" (as he said), so we did!<br/> 
+Now applying ayeris is more fast because we used IconBundles-large method built-in in Anemone, and you'll never notice the ⚠️ warning near the theme name in anemone because we fixed the control file of the theme to add Anemome ad dependency.<br/>
+If you notice bugs or stuff that doesn't work contact our team from Cydia by tapping Author>Maintainer from the theme info page.<br/> 
+<br/> 
+<b>KNOWN BUGS</b>: Dock has an extra line at the upper side, we'r looking into it.<br/> 
+<br/> 
+Enjoy!]]>
+</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>ayeris1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<image>ayeris2.jpg</image>
+		</screenshot>
+		<screenshot>
+			<image>ayeris3.jpg</image>
+		</screenshot>
+		<screenshot>
+			<image>ayeris4.jpg</image>
+		</screenshot>
+		<screenshot>
+			<image>ayeris5.jpg</image>
+		</screenshot>
+		<screenshot>
+			<image>ayeris6.jpg</image>
+		</screenshot>	
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/iOSthemes</name>
+			<url>https://www.reddit.com/r/iOSthemes</url>
+		</link>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+		</link>
+	</links>
+</package>

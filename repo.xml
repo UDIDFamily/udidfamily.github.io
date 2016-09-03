@@ -1,0 +1,19 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Follow Sn0wCooder on Twitter</name>
+			<url>https://twitter.com/Sn0wCooder</url>
+			<iconclass>glyphicon glyphicon-user</iconclass>
+		</link>
+		<link>
+			<name>Follow GeekBreak on Twitter</name>
+			<url>https://twitter.com/Geek_Break</url>
+			<iconclass>glyphicon glyphicon-user</iconclass>
+		</link>
+		<link>
+			<name>I want to contribute</name>
+			<url>http://paypal.me/udidfamily</url>
+			<iconclass>glyphicon glyphicon-thumbs-up</iconclass>
+		</link>
+	</footerlinks>
+</repo>
