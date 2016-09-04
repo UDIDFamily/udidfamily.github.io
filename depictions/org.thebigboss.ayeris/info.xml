@@ -15,7 +15,7 @@
 	<descriptionlist>
 		<description><![CDATA[
 			ayeris, finally ported for Anemone!<br/> 
-Winterboard is buggy, slow and really outdated, maybe Surenix doesn't know that (?), so we decided to port this theme to the newest and powerful theming engine called Anemone, @coolstarorg (main dev of Anemone) already did a "porting" of Ayeris but he said that he'll never update that "dirty hack" (as he said), so we did!<br/> 
+Winterboard is buggy, slow and really outdated, maybe Surenix doesn't know that (?), so we decided to port this theme to the newest and powerful theming engine called Anemone, @coolstarorg (main dev of Anemone) already did a "porting" of ayeris but he said that he'll never update that "dirty hack" (as he said), so we did!<br/> 
 Now applying ayeris is more fast because we used IconBundles-large method built-in in Anemone, and you'll never notice the ⚠️ warning near the theme name in anemone because we fixed the control file of the theme to add Anemome as dependency.<br/>
 If you notice bugs or stuff that doesn't work contact our team from Cydia by tapping Author>Maintainer from the theme info page.<br/> 
 <br/> 
