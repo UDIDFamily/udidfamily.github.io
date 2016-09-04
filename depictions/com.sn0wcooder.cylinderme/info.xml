@@ -1,7 +1,7 @@
 <package>
 	<id>com.sn0wcooder.cylinderme</id>
 	<name>Cylinder More Effects</name>
-	<version>1.0</version>
+	<version>1.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>4.0</miniOS>
@@ -12,10 +12,10 @@
 		<package>Cylinder</package>
 	</dependencies>
 	<descriptionlist>
-		<description>95 more Cylinder effects.</description>
+		<description>119 more Cylinder effects.</description>
 	</descriptionlist>
 	<changelog>
-		<change>Initial release</change>
+		<change>Added 24 more effects by supermamom</change>
 	</changelog>
 	<links>
 		<link>
