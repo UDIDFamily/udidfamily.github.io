@@ -1,0 +1,35 @@
+<package>
+	<id>com.sn0wcooder.lionlockglyphtheme</id>
+	<name>Lion LockGlyph Theme</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>LockGlyph</package>
+	</dependencies>
+	<descriptionlist>
+		<description>An awesome LockGlyph Theme!</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>screen.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/iOSthemes</name>
+			<url>https://www.reddit.com/r/iOSthemes</url>
+		</link>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+		</link>
+	</links>
+</package>
