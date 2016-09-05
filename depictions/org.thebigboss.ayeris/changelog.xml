@@ -1,5 +1,11 @@
 <changelog>
 	<changes>
+		<version>1.4.2-2a</version>
+		<change>Fixed Dock "extra line"</change>
+		<change>Fixed CC Sliders</change>
+		<change>Fixed Activator glyph</change>
+		<change>Fixed Wallet icon</change>	</changes>
+	<changes>
 		<version>1.4.2-1a</version>
 		<change>Initial release</change>
 	</changes>

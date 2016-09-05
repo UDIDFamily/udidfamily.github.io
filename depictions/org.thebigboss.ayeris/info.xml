@@ -1,7 +1,7 @@
 <package>
 	<id>org.thebigboss.ayeris</id>
 	<name>ayeris for Anemone</name>
-	<version>1.4.2-1a</version>
+	<version>1.4.2-2a</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -18,8 +18,6 @@
 Winterboard is buggy, slow and really outdated, maybe Surenix doesn't know that (?), so we decided to port this theme to the newest and powerful theming engine called Anemone, @coolstarorg (main dev of Anemone) already did a "porting" of ayeris but he said that he'll never update that "dirty hack" (as he said), so we did!<br/> 
 Now applying ayeris is more fast because we used IconBundles-large method built-in in Anemone, and you'll never notice the ⚠️ warning near the theme name in anemone because we fixed the control file of the theme to add Anemome as dependency.<br/>
 If you notice bugs or stuff that doesn't work contact our team from Cydia by tapping Author>Maintainer from the theme info page.<br/> 
-<br/> 
-<b>KNOWN BUGS</b>: Dock has an extra line at the upper side, we'r looking into it.<br/> 
 <br/> 
 Enjoy!<br/>
 <br/>
@@ -49,7 +47,10 @@ Enjoy!<br/>
 		</screenshot>	
 	</screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>Fixed Dock "extra line"</change>
+		<change>Fixed CC Sliders</change>
+		<change>Fixed Activator glyph</change>
+		<change>Fixed Wallet icon</change>
 	</changelog>
 	<links>
 		<link>
